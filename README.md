@@ -6,7 +6,7 @@
 
 <a href="https://github.com/Adbhut1234/Adbhut1234"><img src="./assets/btn-github.svg" height="50" alt="GitHub" /></a>
 &nbsp;
-<a href="mailto:contact@adbhut.dev"><img src="./assets/btn-email.svg" height="50" alt="Email" /></a>
+<a href="mailto:adbhutpandey93@gmail.com"><img src="./assets/btn-email.svg" height="50" alt="Email" /></a>
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
