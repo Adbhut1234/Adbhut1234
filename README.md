@@ -1,26 +1,18 @@
-### Hey there 👋
+I'm [Adbhut](https://github.com/Adbhut1234), an AI developer and software engineer based in India.
 
-I'm Adbhut, a software engineer and student based in India.
+I design and build whatever I can imagine.
 
-I mostly work on AI stuff — autonomous agents, multimodal interfaces, and Python backend tools.
+If an idea pops into my head, chances are I'll build it and ship it.
 
-I also build full-stack web applications with TypeScript, Next.js, and Tailwind when I want to bring ideas to life.
+My main tech stack is Python, TypeScript, React, and Tailwind. My favorite tools are Next.js, LiveKit WebRTC, and the Gemini API.
 
-This is my profile where I share projects, experiments, and things I'm currently working on. Everything here is built from scratch, no copy/paste templates.
+I've got a bunch of pinned projects, but my favorite is [Zenith](https://github.com/Adbhut1234/Zenith).
 
----
+You can also check out my cloud IDE in the browser, [CodeVerse](https://codeverse-main-ruby.vercel.app)!
 
-### Tools & Tech
-
-- Python, TypeScript, Tailwind
-- Next.js, Monaco Editor, LiveKit WebRTC
-- Gemini API, SQLite, PostgreSQL
-
----
-
-### A Bit About Me
+### Fun Facts:
 
 - 🎧 Late-night coding with music on repeat
-- ⚡ Hackathon enthusiast — love building under pressure
-- 🍿 Into anime and deep tech rabbit holes
-- 💻 I like building things that are simple, useful, and easy to understand
+- ☕ Chai over coffee, any day
+- 🍿 Demon Slayer is a favorite anime
+- 💻 Hobbies: anime, hackathons, building things
