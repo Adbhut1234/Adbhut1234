@@ -12,15 +12,15 @@ This is my profile where I share projects, experiments, and things I'm currently
 
 ### Tools & Tech
 
-• Python, TypeScript, Tailwind
-• Next.js, Monaco Editor, LiveKit WebRTC
-• Gemini API, SQLite, PostgreSQL
+- Python, TypeScript, Tailwind
+- Next.js, Monaco Editor, LiveKit WebRTC
+- Gemini API, SQLite, PostgreSQL
 
 ---
 
 ### A Bit About Me
 
-• 🎓 B.Tech Computer Science student at SRMU
-• ⚡ Hackathon enthusiast — love building under pressure
-• 🍿 Into anime and deep tech rabbit holes
-• 💻 I like building things that are simple, useful, and easy to understand
+- 🎓 B.Tech Computer Science student at SRMU
+- ⚡ Hackathon enthusiast — love building under pressure
+- 🍿 Into anime and deep tech rabbit holes
+- 💻 I like building things that are simple, useful, and easy to understand
