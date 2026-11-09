@@ -20,7 +20,7 @@ This is my profile where I share projects, experiments, and things I'm currently
 
 ### A Bit About Me
 
-- 🎓 B.Tech Computer Science student at SRMU
+- 🎧 Late-night coding with music on repeat
 - ⚡ Hackathon enthusiast — love building under pressure
 - 🍿 Into anime and deep tech rabbit holes
 - 💻 I like building things that are simple, useful, and easy to understand
