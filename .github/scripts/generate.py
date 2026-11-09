@@ -22,11 +22,17 @@ TOKEN = os.environ.get("GITHUB_TOKEN")
 OUT = os.environ.get("OUT_DIR", "assets")
 STATIC = os.environ.get("STATIC_PREVIEW") == "1"
 
-DISPLAY = "Enc0deX"
-TAGLINE = "Aspiring AI developer building with TypeScript, JavaScript and Python."
-PINNED = ["SIH-2026", "Codeverse", "Hackathon-Hack2skill", "Zenith"]
+DISPLAY = "Adbhut Pandey (Enc0deX)"
+TAGLINE = "AI Developer & Full-Stack Engineer | Autonomous Agents & Web Apps"
+PINNED = ["Zenith", "Codeverse", "SIH-2026", "Smart-Attendance-System"]
 FEATURED = "Zenith"          # shown first, as a large card
-DESCRIPTIONS = {}            # optional, e.g. {"Zenith": "One line about the project"}; GitHub's repo description is used otherwise
+DESCRIPTIONS = {
+    "Zenith": "Vision-grade cognitive desktop assistant with LiveKit WebRTC & sovereign vector memory.",
+    "Codeverse": "Cloud IDE powered by Monaco Editor, Next.js App Router, Prisma & Neon PostgreSQL.",
+    "SIH-2026": "National problem-solving solution built for Smart India Hackathon 2026.",
+    "Smart-Attendance-System": "Automated face-recognition attendance tracking using Computer Vision.",
+    "Hackathon-Hack2skill": "Rapid web prototype built for the Hack2skill national hackathon.",
+}
 
 # Palette: neutral dark base, one red accent taken from the avatar.
 BG, LINE, TXT, MUTED, SOFT = "#0d1117", "#30363d", "#e6edf3", "#8b949e", "#161b22"
