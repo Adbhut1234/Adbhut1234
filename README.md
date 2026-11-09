@@ -6,7 +6,7 @@ If an idea pops into my head, chances are I'll build it and ship it.
 
 My main tech stack is Python, TypeScript, React, and Tailwind. My favorite tools are Next.js, LiveKit WebRTC, and the Gemini API.
 
-I've got a bunch of pinned projects, but my favorite is [Zenith](https://github.com/Adbhut1234/Zenith).
+I've got a bunch of pinned projects, including [Zenith](https://github.com/Adbhut1234/Zenith) and our SIH land-record validation platform, [Terra-Verify](https://github.com/Adbhut1234/SIH-2026).
 
 You can also check out my cloud IDE in the browser, [CodeVerse](https://codeverse-main-ruby.vercel.app)!
 
