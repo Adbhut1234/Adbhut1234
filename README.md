@@ -1,36 +1,36 @@
-<p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Adbhut Pandey (@Adbhut1234)" />
-</p>
+### Hey there 👋
 
-## About
+I'm Adbhut, a software engineer and CSE student based in India.
 
-I am a B.Tech Computer Science & Engineering undergraduate at Shri Ramswaroop Memorial University specializing in **AI Agents, Real-Time Multimodal Systems, and Full-Stack Engineering**. I build autonomous agents, developer tooling, and modern web applications with Python, TypeScript, and Next.js, and actively compete in national hackathons.
+I mostly work on autonomous AI agents, real-time multimodal apps, and full-stack web tools — working primarily with Python, TypeScript, Next.js, and Tailwind.
 
-- **Education:** B.Tech, Computer Science & Engineering, Shri Ramswaroop Memorial University
-- **Focus Areas:** Autonomous Agent Architectures, Real-Time Audio/Vision (LiveKit, Gemini Live API), Cloud IDEs
-- **Core Languages:** Python, TypeScript, JavaScript, SQL
+Lately, I've been deep into cognitive agent loops, WebRTC streaming, and developer tools like [Zenith](https://github.com/Adbhut1234/Zenith) and [CodeVerse](https://github.com/Adbhut1234/Codeverse).
 
-## Projects
+Everything here is built with an emphasis on clean architecture and practical problem solving.
 
-<p align="center">
-  <img src="./assets/projects.svg" width="100%" alt="Pinned projects" />
-</p>
+---
 
-- **[Zenith](https://github.com/Adbhut1234/Zenith)** — Vision-grade cognitive desktop assistant featuring LiveKit WebRTC, Gemini Multimodal Live API, AST code phasing, and a sovereign SQLite vector memory matrix.
-- **[CodeVerse](https://github.com/Adbhut1234/Codeverse)** ([Live Demo ↗](https://codeverse-main-ruby.vercel.app)) — Cloud-based IDE featuring Monaco Editor, Next.js App Router, Prisma ORM, and persistent PostgreSQL workspaces on Neon.
-- **[SIH-2026](https://github.com/Adbhut1234/SIH-2026)** — National innovation challenge prototype developed for Smart India Hackathon 2026.
-- **[Smart-Attendance-System](https://github.com/Adbhut1234/Smart-Attendance-System)** — Automated computer-vision facial recognition attendance tracking pipeline.
-- **[Hackathon-Hack2skill](https://github.com/Adbhut1234/Hackathon-Hack2skill)** — Rapid full-stack prototype engineered under competitive hackathon constraints.
+### Tools & Tech
 
-## Activity
+• **Languages:** Python, TypeScript, JavaScript, SQL
+• **Frontend:** Next.js, React, Tailwind CSS, Monaco Editor
+• **AI & Real-Time:** Gemini Multimodal Live API, LiveKit WebRTC, Vector RAG (SQLite)
+• **Backend & Dev:** Node.js, Prisma, PostgreSQL, Git, Linux
 
-<p align="center">
-  <img src="./assets/contributions.svg" width="100%" alt="Contribution graph" />
-  <img src="./assets/stats.svg" width="100%" alt="Profile numbers" />
-</p>
+---
 
-## Contact
+### Featured Work
 
-- **Email:** [adbhutpandey93@gmail.com](mailto:adbhutpandey93@gmail.com)
-- **GitHub:** [@Adbhut1234](https://github.com/Adbhut1234)
-- **CodeVerse Live:** [codeverse-main-ruby.vercel.app](https://codeverse-main-ruby.vercel.app)
+• **[Zenith](https://github.com/Adbhut1234/Zenith)** — Vision-grade cognitive desktop assistant with LiveKit WebRTC and sovereign vector memory
+• **[CodeVerse](https://github.com/Adbhut1234/Codeverse)** — Cloud IDE in the browser with Monaco Editor and PostgreSQL ([Live Demo ↗](https://codeverse-main-ruby.vercel.app))
+• **[Smart Attendance System](https://github.com/Adbhut1234/Smart-Attendance-System)** — Computer-vision attendance tracking pipeline
+• **[SIH-2026](https://github.com/Adbhut1234/SIH-2026)** — National innovation prototype built for Smart India Hackathon
+
+---
+
+### A Bit About Me
+
+• 🎓 B.Tech Computer Science student at SRMU
+• ⚡ Love participating in fast-paced hackathons and sprint builds
+• 🤖 Fascinated by agentic reasoning, memory systems, and AI assistants
+• 💻 I like building tools that are fast, useful, and eliminate friction
